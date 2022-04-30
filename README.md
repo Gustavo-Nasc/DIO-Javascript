@@ -2,7 +2,7 @@
 
 ## Javascript
 
-Portfólio referente à projetos e mini-aplicações criadas a partir dos cursos do Bootcamp Órbi Games Developer da Digital Innovation One.
+Repositório referente à projetos e mini-aplicações criadas a partir dos cursos do Bootcamp Órbi Games Developer da [Digital Innovation One](https://www.dio.me).
 
 ### Conteúdo
 
