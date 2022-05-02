@@ -1,6 +1,6 @@
 # Coleções Chaveadas
 
-Este repositório contém a atividade prática do Curso "Coleções", que faz parte do Bootcamp de Javascript ministrado [Stephany Nusch](https://github.com/stebsnusch) pela [Digital Innovation One](https://www.dio.me).
+Este repositório contém a atividade prática do Curso "Coleções", que faz parte do Bootcamp de Javascript ministrado por [Stephany Nusch](https://github.com/stebsnusch) pela [Digital Innovation One](https://www.dio.me).
 
 ## Atividade 1: Maps
 

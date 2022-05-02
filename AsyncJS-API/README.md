@@ -1,6 +1,6 @@
 # Javascript Assíncrono
 
-Este repositório contém a atividade prática do Curso "Javascript Assíncrono", que faz parte do Bootcamp de Javascript ministrado [Stephany Nusch](https://github.com/stebsnusch) pela [Digital Innovation One](https://www.dio.me).
+Este repositório contém a atividade prática do Curso "Javascript Assíncrono", que faz parte do Bootcamp de Javascript ministrado por [Stephany Nusch](https://github.com/stebsnusch) pela [Digital Innovation One](https://www.dio.me).
 
 ## Atividade: API "catAPI"
 
